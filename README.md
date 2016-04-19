@@ -1,2 +1,2 @@
 # luxiaoxi.github.io
-blog
+(blog address) [http://luxiaoxi.github.io]
